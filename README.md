@@ -1,1 +1,1 @@
-# 100_days_of_DSA
+# 100 Days of Data Structure and Algorithms
