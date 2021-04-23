@@ -1,7 +1,7 @@
 ## using #include<stdlib.h>
 
 ### malloc() ***used to allocate memory to structure***
-*void * malloc(size_t size);*
+*void* * malloc(size_t size);*
 
 *ptr = (struct emp *) malloc(sizeof(struct emp));*
 
