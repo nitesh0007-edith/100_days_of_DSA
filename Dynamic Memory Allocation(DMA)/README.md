@@ -17,4 +17,16 @@ where n = size of array and size = size of each element in array
 
 where ptr = address of memory block to resize and size = size of new block either increse or decrese
 
+#### use of realloc()
+##### STACK Creation
+int capacity = 5 , *stack;
+
+stack =(int * ) calloc(capacity,sizeof(int));
+
+*using calloc() we can't store the 6th element in stack so here we use realloc() for incresing the size of stack*
+
+capacity++
+
+*stack = (void * ) realloc(stack,capacity * sizeof(int));* 
+
 ### free() ***use to delete the memory***
