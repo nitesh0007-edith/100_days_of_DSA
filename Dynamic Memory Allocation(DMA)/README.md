@@ -9,5 +9,8 @@
 *void * calloc(size_t n, size_t size)*
 
 where n = size of array and size = size of each element in array
+
+*arr =( int * ) calloc(n, sizeof(int));*
+
 ### realloc() ***increase/decrease the size of array***
 ### free() ***use to delete the memory***
