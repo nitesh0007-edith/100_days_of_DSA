@@ -1,5 +1,5 @@
 ## using #include<stdlib.h>
-<span style="color:blue">*blue*</span>
+
 ### malloc() ***used to allocate memory to structure***
 *void * malloc(size_t size);*
 
