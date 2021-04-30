@@ -1,5 +1,5 @@
-# In this Program Time Complexity is O(n^2) 
-
+//In this Program Time Complexity is O(n^2) 
+//Naive Approach
 #include<stdio.h>
 
 void printArray(int arr [],int i,int j)
