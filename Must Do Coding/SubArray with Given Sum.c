@@ -1,8 +1,11 @@
+# In this Program Time Complexity is O(n^2) 
+
 #include<stdio.h>
 
 void printArray(int arr [],int i,int j)
 {
     printf("%d %d ", i, j);
+    // for printing the Subarray
     /*for (int k = i; k <= j; k++)
 	{
         printf("%d ", arr[k]);
