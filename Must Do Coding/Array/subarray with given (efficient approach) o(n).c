@@ -1,3 +1,5 @@
+// This is the Efficient Approch with Time complexity Order of n times
+
 #include<stdio.h>
 
 void subArraySum(int arr[],int len,int sum)
