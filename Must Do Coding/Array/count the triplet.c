@@ -1,4 +1,4 @@
-//Naive Approach 
+// here we use Naive Approach 
 // time Complexity : O(n^3)
 #include<stdio.h>
 int main()
