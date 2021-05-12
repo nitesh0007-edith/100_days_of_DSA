@@ -1,5 +1,5 @@
 class Solution:
-    #Function to rotate an array by d elements in counter-clockwise direction. 
+    #Function to rotate an array by d times in counter-clockwise direction. 
     def rotateArr(self,A,D,N):
         self.reverse(A,0,D-1)
         self.reverse(A,D,N-1)
