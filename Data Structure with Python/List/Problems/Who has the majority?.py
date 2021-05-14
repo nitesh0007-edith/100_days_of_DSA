@@ -1,3 +1,4 @@
+#who has the majority?
 def majorityWins(arr, n, x, y):
         # code here
         xcount=0
