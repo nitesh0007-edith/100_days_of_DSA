@@ -1,3 +1,4 @@
+#mean and Median of Array
 class Solution:
     ##Complete the below codes
     #Function to find median of the array elements.
