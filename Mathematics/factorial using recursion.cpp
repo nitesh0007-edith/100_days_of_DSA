@@ -3,10 +3,10 @@
 using namespace std;
 int Factorial(int n)
 {
-	int fact=1,i;
+	
 	if(n==0)
 	{
-		return fact;
+		return 1;
 	}
 	else
 	{
