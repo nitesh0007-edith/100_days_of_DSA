@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-void palindrome(int n)
+bool palindrome(int n)
 {
 	int temp=n;
 	int rem,result=0;
@@ -11,21 +11,17 @@ void palindrome(int n)
 		result=result*10+rem;
 		temp=temp/10;
 	}
-	if(result==n)
-	{
-		cout<< "given number is Palindrome number"<<endl;
-	}
-	else
-	{
-		cout<< "given number is not Palindrome number";
-	}
+	return result==n;
 }
 
 int main()
 {
 	int number;
 	cin>>number;
-	palindrome(number);
+	cout<<(bool)palindrome(number);
 	
 	return 0;
 }
+	
+	
+	
