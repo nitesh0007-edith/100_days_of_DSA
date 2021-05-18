@@ -1,4 +1,5 @@
 //this is the Naive Solution
+// Time complexity O(min(a,b)
 #include<iostream>
 #include<limits.h>
 using namespace std;
