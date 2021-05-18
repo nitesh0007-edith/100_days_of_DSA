@@ -1,4 +1,4 @@
-// This is Efficient Solution
+// This is Efficient Solution Time complexity for this solution is 0(logn)
 #include <iostream>
 #include <limits.h>
 using namespace std;
