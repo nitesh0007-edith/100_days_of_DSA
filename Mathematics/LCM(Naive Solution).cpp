@@ -1,3 +1,5 @@
+// This is the Naive Solution. Time Complexity is O(a*b-max(a,b))
+
 #include<iostream>
 #include<limits.h>
 
