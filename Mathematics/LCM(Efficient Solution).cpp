@@ -1,4 +1,5 @@
 // This is the Efficient Solution using Euclidean Algorithms
+// Time complexity = O(log(min(a,b))
 #include<iostream>
 #include<limits.h>
 using namespace std;
