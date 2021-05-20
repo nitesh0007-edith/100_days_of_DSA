@@ -1,3 +1,4 @@
+// Time Complexity = O( n^2 log n)
 #include<iostream>
 #include<limits.h>
 void PrimeFactor(int n);
