@@ -1,4 +1,5 @@
 // This solution is the sortan implementation of Sieve of Eratosthenes Otimized Solution
+//Time Complexity = O(n log logn)
 #include<iostream>
 #include<limits.h>
 #include<vector>
