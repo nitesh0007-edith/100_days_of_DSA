@@ -1,5 +1,5 @@
 // Time Complexity = 0(n)
-
+// Auxilary Space = O(1)
 #include<iostream>
 #include<limits.h>
 
