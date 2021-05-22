@@ -1,6 +1,5 @@
 // this is recursive solution 
-// so time complexity = 0(log n)
-// but auxilary space = O(log n)
+// so time complexity = 0(log n) but auxilary space = O(log n)
 #include<iostream>
 #include<limits.h>
 
