@@ -1,3 +1,5 @@
+// time complexity : O(n * sq root(n))
+
 #include<iostream>
 #include<limits.h>
 using namespace std;
