@@ -1,3 +1,4 @@
+// Time complexity 0(total bits in n)
 #include<iostream>
 #include<limits.h>
 
