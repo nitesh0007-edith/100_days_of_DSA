@@ -1,3 +1,4 @@
+// Number of Movement for Given no. of Disc = 2^n - 1
 #include<iostream>
 using namespace std;
 
