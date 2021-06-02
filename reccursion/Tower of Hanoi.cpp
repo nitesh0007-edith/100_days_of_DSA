@@ -1,4 +1,5 @@
 // Number of Movement for Given no. of Disc = 2^n - 1
+// Time Complexity = O(2^n)
 #include<iostream>
 using namespace std;
 
