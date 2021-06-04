@@ -1,3 +1,4 @@
+//Time complexity O(n) 
 #include <iostream>
 #include <cmath>
 using namespace std;
