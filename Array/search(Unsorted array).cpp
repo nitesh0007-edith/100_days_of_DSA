@@ -1,4 +1,5 @@
 // linear search
+// Time complexity O(n) in worst case
 #include<iostream>
 using namespace std;
 
