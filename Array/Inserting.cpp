@@ -1,4 +1,5 @@
-//Time complexity O(n) 
+//Time complexity O(n) in worst case  
+// Best case - insert at the end O(1)
 #include <iostream>
 #include <cmath>
 using namespace std;
