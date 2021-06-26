@@ -1,3 +1,4 @@
+// Time : O(log n)
 #include<iostream>
 using namespace std;
 int LastOcc(int arr[],int n,int x)
