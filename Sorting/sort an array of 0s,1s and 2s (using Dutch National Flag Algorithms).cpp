@@ -1,4 +1,4 @@
-// Time Complexity : 0(n), Aux Space
+// Time Complexity : 0(n), Aux Space : 0(1), and one Traversal
 #include<iostream>
 using namespace std;
 
